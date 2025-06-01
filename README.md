@@ -1,9 +1,8 @@
 # Software Testing Project – SmartTube
 
-This project showcases the practical application of core software testing techniques using the **SmartTube open-source Android application**. As part of COE891 (Software Testing and QA), we applied four major testing strategies to evaluate and improve code quality in a production-level Java codebase.
+This project showcases the practical application of core software testing techniques using the **SmartTube open-source Android application**. We applied four major testing strategies to evaluate and improve code quality in a production-level Java codebase.
 
 > **Tested System:** [SmartTube by yuliskov](https://github.com/yuliskov/SmartTube)  
-> **Team Project (W2025) – Toronto Metropolitan University**
 
 ---
 
@@ -63,8 +62,7 @@ These techniques helped us model different code paths, input behaviors, data flo
 
 ## Report
 
-The full project report (with test cases, CFG/DFG diagrams, logic tables, and findings) is available in this repo as:  
-📎 `COE891_Final_Report.pdf`
+The full project report (with test cases, CFG/DFG diagrams, logic tables, and findings) is available in this repo.
 
 ---
 
